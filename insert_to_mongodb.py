@@ -31,3 +31,5 @@ for json_file in json_files:
 
 print(f"Total dokumen di MongoDB: {collection.count_documents({})}")
 print("Proses selesai.")
+
+# yattaqi jeleeeeeeeeeeeeeeeeeeeeeeeekkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
