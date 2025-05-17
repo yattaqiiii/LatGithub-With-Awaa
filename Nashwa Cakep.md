@@ -3,6 +3,8 @@
 ![alt text](awaa.jpeg)
 *The cutest smile in the universe* 💖
 
+![alt text](<download (1).png>)
+*bwt u 
 ## 🌟 WHO IS NASHWA? 🌟
 
 Nashwa isn't just a person - she's a whole **VIBE**! Let me tell you all about this amazing human who makes my heart do the thing™️
